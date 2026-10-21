@@ -45,3 +45,17 @@ The website is live. The source code is kept private, so this repository serves 
 
 - [Live website](https://www.webmargaritas.com/)
 - [GitHub profile](https://github.com/alexanrable)
+
+## Screenshots
+
+### Homepage
+![WebMargaritas homepage](screenshots/homepage.png)
+
+### Services catalog
+![Services catalog](screenshots/services.png)
+
+### Service details
+![Service details](screenshots/service-details.png)
+
+### Mobile view
+![Mobile view](screenshots/mobile-view.png)
