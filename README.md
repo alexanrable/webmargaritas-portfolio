@@ -59,3 +59,16 @@ The website is live. The source code is kept private, so this repository serves 
 
 ### Mobile view
 ![Mobile view](screenshots/mobile-view.png)
+
+
+## Development History
+
+The project was developed iteratively from the initial marketplace draft to a live website, with ongoing feature development, bug fixes, functional testing, and security checks.
+
+The screenshots below show selected parts of the commit history from the private source repository.
+
+![Development history - Part 1](screenshots/development-history1.png)
+
+![Development history - Part 2](screenshots/development-history2.png)
+
+For a summary of the main milestones, see the [Development Timeline](docs/development-timeline.md).
